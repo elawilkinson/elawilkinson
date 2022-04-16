@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elawilkinson
+- 👋 Hi, I’m @elawilkinson on the internet, and Emma in real life.
 - 👀 I’m interested in tech as a force for good! And also in desserts.
 - 🌱 I’m currently studying on School of Code's bootcamp.
 
