@@ -2,7 +2,7 @@
 
 After a career in the Film & TV industry, I was lucky enough to win a place on <a href="https://www.schoolofcode.co.uk/" rel="nofollow"> School of Code's </a> intensive 16-week bootcamp in Full-Stack JavaScript Development. My previous career honed my collaboration, innovation and adaptability skills, and I'm now excited to bring these with me as a I transfer to tech.<g-emoji class="g-emoji" alias="rocket">🚀</g-emoji> 
 
-https://www.codewars.com/users/jhoffner/badges/small
+<img src="https://www.codewars.com/users/jhoffner/badges/small" />
 
 I love DIY, animals and pressing social causes - so if you want to talk about any of these, or about software projects, drop me a line!
 
