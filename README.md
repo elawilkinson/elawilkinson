@@ -1,8 +1,8 @@
 👋 Hi, I’m Emma. I’m interested in tech as a force for good! And also in desserts.
 
-🤖 I'm currently working full-time as a Software Engineer for a consultancy, and volunteering in my evening-weekend time for an app in the sexual health space. 
+🤖 I've recently finished working in-house as a Software Developer within the public sector, and am pursuing personal projects. 
 
-📽️ After a career in the Film & TV industry, I was lucky enough to win a place on <a href="https://www.schoolofcode.co.uk/" rel="nofollow"> School of Code's </a> intensive 16-week bootcamp in Full-Stack JavaScript Development. My previous career honed my collaboration, innovation and adaptability skills, and I'm now excited to bring these with me as a I transfer to tech.<g-emoji class="g-emoji" alias="rocket">🚀</g-emoji>. 
+📽️ After a career in the Film & TV industry, I was lucky enough to win a place on <a href="https://www.schoolofcode.co.uk/" rel="nofollow"> School of Code's </a> intensive 16-week bootcamp in Full-Stack JavaScript Development.<g-emoji class="g-emoji" alias="rocket">🚀</g-emoji>. 
 
 🐈‍⬛I love DIY, animals and pressing social causes - so if you want to talk about any of these, or about software projects, drop me a line!
 
